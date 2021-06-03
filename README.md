@@ -8,12 +8,12 @@ The dataset contains the size of population(in 10,000s) and revenue(in $10,000),
 ![Linear Regression](Revenue-for-the-population/Linear_Regression_model.png?raw=true "Linear Regression Model")
 
 
+### Contour Plot
+![Contour Plot](Revenue-for-the-population/contour_plot.png?raw=true "Contour plot")
+
 ### Cost Function
 ![Cost function](Revenue-for-the-population/cost_function.png?raw=true "Cost Function")
 
-
-### Contour Plot
-![Contour Plot](Revenue-for-the-population/contour_plot.png?raw=true "Contour plot")
 
 
 
