@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 #import seaborn as sns
 
 def read_data():
-    dataframe=pd.read_csv("/home/megha/Desktop/ML-Python/Revenue-for-the-population/ex1data1.txt",sep=",",skiprows=1)
+    dataframe=pd.read_csv("/home/megha/Desktop/ML-Python/Revenue-for-the-population/ex1data1.txt",sep=",")
     #print(dataframe)
     #print(dataframe.size)
     m=len(dataframe)
