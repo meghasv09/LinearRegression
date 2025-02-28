@@ -54,7 +54,7 @@ To run the project locally:
    cd LinearRegression
 2. **Run the script:**
    ```bash
-   python linear_regression.py
+   python linear_regression.py```
 
 
 
