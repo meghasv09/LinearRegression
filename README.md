@@ -53,6 +53,11 @@ To run the project locally:
    git clone https://github.com/meghasv09/LinearRegression.git
    cd LinearRegression
 
+2. **Run the script:**
+   ```bash
+   python linear_regression.py
+
+
 
 
 
